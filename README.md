@@ -10,3 +10,6 @@ https://morefusion.wkentaro.com/
 
 6-PACK：类别级 6D Pose Tracker with Anchor-Based Keypoints
 https://github.com/j96w/6-PACK
+
+denseFusion：6D Object Pose Estimation by Iterative Dense Fusion
+https://github.com/j96w/DenseFusion
