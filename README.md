@@ -13,3 +13,6 @@ https://github.com/j96w/6-PACK
 
 denseFusion：6D Object Pose Estimation by Iterative Dense Fusion
 https://github.com/j96w/DenseFusion
+
+基于几何的快速计算 3D 点云上的抓取点的方法。
+https://github.com/yayaneath/GeoGrasp
