@@ -16,3 +16,6 @@ https://github.com/j96w/DenseFusion
 
 基于几何的快速计算 3D 点云上的抓取点的方法。
 https://github.com/yayaneath/GeoGrasp
+
+轻量级实时点云分类网络LightPointNet
+https://github.com/siqinglong/lightpointnet
